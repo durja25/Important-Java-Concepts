@@ -20,15 +20,15 @@
 ## [1] Java - Fundamentals & OOPS [Done]
 ### NOTES [Useful Info] :
 
-*[-> All 50 Java Keywords with definitions & examples](_moreReadMe/keywords)*
+*[-> All 50 Java Keywords with definitions & examples](_moreReadMe/keywords/README.md)*
 
-*[-> Java Features, Execution Process & JVM Internals](_moreReadMe/howItWorks)*
+*[-> Java Features, Execution Process & JVM Internals](_moreReadMe/howItWorks/README.md)*
 
-*[-> Java Fundamentals & OOPS Concepts](java_basicsI_and_oops)*
+*[-> Java Fundamentals & OOPS Concepts](java_basicsI_and_oops/README.md)*
 
-*[-> Java OOPS - few points to remember](_moreReadMe/oopsRules)*
+*[-> Java OOPS - few points to remember](_moreReadMe/oopsRules/README.md)*
 
-*[-> Methods of Number, Char, String, Array Classes](_moreReadMe/importantMethods)*
+*[-> Methods of Number, Char, String, Array Classes](_moreReadMe/importantMethods/README.md)*
 
 ### PROGRAMS :
 #### [Variables & Operators](java_basicsI_and_oops/variables_and_operators) | [Control Flow](java_basicsI_and_oops/control_flow) 
@@ -49,11 +49,11 @@
 
 ## [2] Java - Generics, Collections & Exception Handling [Done]
 ### NOTES [Useful Info] :
-*[-> Java Generics](_moreReadMe/generics)*
+*[-> Java Generics](_moreReadMe/generics/README.md)*
 
-*[-> Java Collections Framework](java_basicsII_and_collections)*
+*[-> Java Collections Framework](java_basicsII_and_collections/README.md)*
 
-*[-> Java Errors and Exception Handling](_moreReadMe/exceptions)*
+*[-> Java Errors and Exception Handling](_moreReadMe/exceptions/README.md)*
 
 ### PROGRAMS :
 #### [Generics in Java](java_basicsII_and_collections/generics)
@@ -72,13 +72,13 @@
 
 ## [3] Java - Files, I/O, Serialization, Networking, Others [Done]
 ### NOTES [Useful Info] :
-*[-> Java Files and I/O](_moreReadMe/input_output)*
+*[-> Java Files and I/O](_moreReadMe/input_output/README.md)*
 
-*[-> Java Serialization](_moreReadMe/serialization)*
+*[-> Java Serialization](_moreReadMe/serialization/README.md)*
 
-*[-> Java Networking](_moreReadMe/networking)*
+*[-> Java Networking](_moreReadMe/networking/README.md)*
 
-*[-> Java RegEx & Lambda Expressions](_moreReadMe/regex_and_lambda)*
+*[-> Java RegEx & Lambda Expressions](_moreReadMe/regex_and_lambda/README.md)*
 
 ### PROGRAMS :
 #### [Files and I/O](java_io_networking/input_output)
@@ -100,9 +100,9 @@
 ## [4] Java - Threads, Concurrency & Concurrent Collections [WIP]
 ![threads](https://user-images.githubusercontent.com/2780145/109363422-8cff8580-78b2-11eb-83c3-77151011e4d1.png)
 ### NOTES [Useful Info] :
-*[-> Java Multithreading & Garbage Collection](_moreReadMe/multithreading)*
+*[-> Java Multithreading & Garbage Collection](_moreReadMe/multithreading/README.md)*
 
-*[-> Java Thread Synchronization](_moreReadMe/threadSynchronization)*
+*[-> Java Thread Synchronization](_moreReadMe/threadSynchronization/README.md)*
 
 ### PROGRAMS :
 #### [Multithreading](java_concurrency/multithreading)
@@ -152,15 +152,15 @@
 ![algo coding](https://user-images.githubusercontent.com/2780145/109364614-2f206d00-78b5-11eb-8752-e28a8cf67f16.png)
 
 ### NOTES [Useful Info] :
-*[-> Common Data Structures](_moreReadMe/ds)*
+*[-> Common Data Structures](_moreReadMe/ds/README.md)*
 
-*[-> Searching and Sorting Algorithms](_moreReadMe/search_sort)*
+*[-> Searching and Sorting Algorithms](_moreReadMe/search_sort/README.md)*
 
-*[-> Tree and Graph Algorithms](_moreReadMe/tree_graph)*
+*[-> Tree and Graph Algorithms](_moreReadMe/tree_graph/README.md)*
 
-*[-> Concepts of Dynamic Programming](_moreReadMe/dp)*
+*[-> Concepts of Dynamic Programming](_moreReadMe/dp/README.md)*
 
-*[-> Big O Cheat Sheet](_moreReadMe/bigO)*
+*[-> Big O Cheat Sheet](_moreReadMe/bigO/README.md)*
 
 ### PROGRAMS :
 #### [Basic Programs](java_datastructures_algorithms/basic_programs) | [Recursion Programs](java_datastructures_algorithms/recursion_programs)
@@ -182,73 +182,6 @@
 #### [Coding Interview Problems](java_coding)
 
 .
-
-## [2021] Kotlin - Modern JVM Language [WIP]
-![kotlin](https://user-images.githubusercontent.com/2780145/109118724-b06ae900-7769-11eb-8693-58862cb69ac5.png)
-- *Fastest growing language in Guthub & among the most loved acc. to StackOverflow survey*
-- *Cross-platform, General-purpose, Concise, Safe & fully interoperable with Java*
-- *Primary Official language for Native Android Development since 2019*
-- *Officially supported by Spring Framework, JetBrains Ktor, Eclipse Vert.x (server-side dev)*
-
-### NOTES [Useful Info] :
-*[-> Kotlin Funadamentals and OOP](_moreReadMe/kotlin_basics)*
-
-*[-> Data Structures in Kotlin](kotlin_algorithms/src/main/algo)*
-
-*[-> Design Patterns in Kotlin](kotlin_designpatterns/patterns/src/test/kotlin)*
-
-*[-> Kotlin Overview, Features & Multi-platform Support](_moreReadMe/kotlin_overview)*
-
-*[-> Java to Kotlin CheatSheets](_moreReadMe/kotlin_java_cheatsheets)*
-
-### PROGRAMS :
-#### Basic Syntax Programs
-
-#### Collections
-
-#### Coroutines
-
-#### Serialization
-
-#### Standard Library
-
-#### Kotlin for Android
-
-.
-
-## [2021] Android Development (Java & Android Libraries) [WIP]
-![android](https://user-images.githubusercontent.com/2780145/109120489-05a7fa00-776c-11eb-912e-f539d25a5c56.png)
-- *There are 2.5 billion+ monthly active Android devices*
-- *In 2020, Google Play users worldwide downloaded 108.5 billion mobile apps*
-- *Native Apps have better performance, security, access to device hardware and software*
-- *Native apps tends to have less bugs, gets latest features first and run smoother*
-
-### NOTES [Useful Info] :
-*-> UI Basics - XML layouts, views, event handlers*
-
-*-> Recycler View - display scrolling list data using adapter pattern*
-
-*[-> Retrofit](_moreReadMe/android_retrofit) - type-safe HTTP client for Java & Android*
-
-*[-> Glide](_moreReadMe/android_glide) - efficient image loading lib with media decoding, memory & disk caching*
-
-*[-> RoomDB](_moreReadMe/android_roomdb) - ORM based SQLite wrapper for fluent db access*
-
-*[-> WorkManager](_moreReadMe/android_workmanager) - schedule deferrable, asynchronous tasks*
-
-*-> ViewModel - store & and manage UI-related data in lifecycle-aware way*
-
-*-> LiveData - lifecycle-aware observable data holder, ootb data binding support*
-
-*-> DataBinding - bind UI components to data sources in declarative way*
-
-*-> RxJava - asynchronous, event-based programs using observable sequences*
-
-*-> Dagger - static, compile-time dependency injection framework*
-
-*-> JUnit - developer-side testing on the JVM (unit testing framework)*
-
-*-> Mockito - mocking objects in unit tests (test doubling framework)
 
 ### PROGRAMS :
 #### ...
@@ -341,19 +274,17 @@
 -->
 ## Relation of Java and Others Languages
 ### NOTES [Useful Info] :
-*[-> Comparisons between C, C++, C# and Java Language](_moreReadMe/cplusplus)*
+*[-> Comparisons between C, C++, C# and Java Language](_moreReadMe/cplusplus/README.md)*
 
-*[-> CheatSheet | C# for Java Developers](_moreReadMe/csharp)*
-
-*[-> Java and Python](_moreReadMe/python)*
+*[-> CheatSheet | C# for Java Developers](_moreReadMe/csharp/README.md)*
 
 .
 
 ## Extras
 ### NOTES :
-*[[USEFUL INFO - Good Java & Computer Science Books for Reference]](_moreReadMe/books)*
+*[USEFUL INFO - Good Java & Computer Science Books for Reference](_moreReadMe/books/README.md)*
 
-*[[USEFUL INFO - Great Websites for Learning Java & Computer Science]](_moreReadMe/websites)*
+*[USEFUL INFO - Great Websites for Learning Java & Computer Science](_moreReadMe/websites/README.md)*
 
 .
 

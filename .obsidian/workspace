@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "7c8e33b51aec62c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "67e907b14b1f66d5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "java_coding/README.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "19507d54eb7acc23",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab38dfa55452a02c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93e1d7a8e18fbdf8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "553df10de2dda2ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a2333247122a702b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f109e41a33fd8cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35cb531e511284b9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "java_coding/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "67e907b14b1f66d5",
+  "lastOpenFiles": [
+    "java_coding/README.md",
+    "README.md",
+    "Android_kotlin/README.md",
+    "_moreReadMe/books/README.md"
+  ]
+}
